@@ -1,0 +1,2 @@
+# PracticaGitSGM
+gitflow
